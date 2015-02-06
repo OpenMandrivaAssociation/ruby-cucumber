@@ -3,7 +3,7 @@
 Summary:	Behaviour Driven Development with elegance and joy
 Name:		ruby-%{rbname}
 Version:	1.3.17
-Release:	1
+Release:	2
 License:	GPLv2+ or Ruby
 Group:		Development/Ruby
 Url:		http://cukes.info
