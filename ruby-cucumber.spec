@@ -6,7 +6,7 @@ Version:	1.3.17
 Release:	2
 License:	GPLv2+ or Ruby
 Group:		Development/Ruby
-Url:		http://cukes.info
+Url:		https://cukes.info
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	locales-en
 BuildRequires:	rubygems
